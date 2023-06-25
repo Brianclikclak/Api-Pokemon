@@ -8,7 +8,7 @@
         - Manejar solicitudes GET.
         - Aplicar el concepto de asincronismo.
         - Manipular objetos.
-       - Manipular el DOM.                
+        - Manipular el DOM.                
                     
                     
 --- 
