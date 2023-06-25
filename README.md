@@ -4,11 +4,11 @@
     Objetivos pedagógicos:
 
                     
-                    - Adquirir conocimientos y habilidades fundamentales para interactuar con APIs, y obtener datos en formato JSON.
-                    - Manejar solicitudes GET.
-                    - Aplicar el concepto de asincronismo.
-                    - Manipular objetos.
-                    - Manipular el DOM.                
+        - Adquirir conocimientos y habilidades fundamentales para interactuar con APIs, y obtener datos en formato JSON.
+        - Manejar solicitudes GET.
+        - Aplicar el concepto de asincronismo.
+        - Manipular objetos.
+       - Manipular el DOM.                
                     
                     
 --- 
